@@ -4,8 +4,6 @@
 
 Ping Tool by AK4CZ is a versatile Python application designed for network administrators and IT professionals. This tool provides an intuitive graphical user interface (GUI) for conducting network diagnostics, primarily focusing on IP address ping tests. It combines ease of use with advanced functionality, making it a valuable addition to your network troubleshooting toolkit.
 
-!(Ping Tool Screenshot)[https://imgur.com/a/s9Fekt8]
-
 ## Features
 
 ### 1. Ping Testing
