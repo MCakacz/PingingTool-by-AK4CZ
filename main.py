@@ -421,6 +421,10 @@ def update_output_text(new_text):
 # Tworzenie okna aplikacji pingującej
 pingtool = tk.Tk()
 pingtool.title("Ping Tool by AK4CZ")
+
+icon_path = "resources/icon.ico"
+root.iconbitmap(icon_path)
+
 logging.info("utworzono okno Ping Tool by AK4CZ")
 
 # Powiększenie szerokości i wysokości okna o 50% zmień wartości "0,5" poniżej aby zmienić
